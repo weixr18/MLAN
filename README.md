@@ -1,5 +1,5 @@
 # MLAN
-机器学习算法笔记
+机器学习算法笔记 [pdf链接](https://github.com/weixr18/MLAN/blob/main/Machine_Learning_Algorithm_Note-V2.0.pdf)
 
 ## 总览
 
