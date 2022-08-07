@@ -1,0 +1,29 @@
+FA算法 https://blog.csdn.net/sinat_37965706/article/details/71330979
+因子分析 https://blog.csdn.net/qq_45493596/article/details/124845440
+ICA教程 https://blog.csdn.net/lizhe_dashuju/article/details/50263339
+PCA理解四层境界 https://blog.csdn.net/yingwei13mei/article/details/82690357
+LPP 局部保持投影 https://blog.csdn.net/jkgghvfuj/article/details/121090021
+概率图模型体系 https://zhuanlan.zhihu.com/p/33397147
+自组织映射 https://blog.csdn.net/mingzheng114/article/details/81041194
+贝叶斯线性回归 https://weirping.github.io/blog/Bayesian-Probabilities-in-ML.html
+局部变分近似 https://zhuanlan.zhihu.com/p/491696939 
+EM算法 https://www.zhihu.com/question/40797593/answer/275171156
+马尔可夫过程 https://blog.csdn.net/weixin_43716250/category_10520681.html
+MCMC https://zhuanlan.zhihu.com/p/37121528
+Gibbs采样 https://blog.csdn.net/zhangxiuli006/article/details/115409238
+RBM https://blog.csdn.net/itplus/article/details/19168937
+流模型 https://blog.csdn.net/qq_38406029/article/details/125384114
+变分自编码器 https://spaces.ac.cn/archives/5343 https://spaces.ac.cn/archives/5383
+变分自编码器 https://www.bilibili.com/video/BV15E411w7Pz?p=2
+VAE损失拆分 https://blog.csdn.net/lee813/article/details/100072168
+Hammersley-Clifford定理 https://github.com/yizt/cv-papers/blob/master/Hammersley-Clifford%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E.md
+隐马尔可夫模型 http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/15_HMM.html
+Baum-Welch算法 https://blog.csdn.net/u014688145/article/details/53046765
+最大熵模型 https://zhuanlan.zhihu.com/p/29978153
+最大熵原理 https://www.hrwhisper.me/machine-learning-maximum-entropy-model/
+最大熵学习 https://www.bookstack.cn/read/huaxiaozhuan-ai/spilt.3.59bc3af53f23ca67.md
+CRF https://zhuanlan.zhihu.com/p/70067113
+CRF算法 https://zhuanlan.zhihu.com/p/103411021
+CRF理解 https://kexue.fm/archives/5542
+MEMM https://kexue.fm/archives/7213
+GAN推导 https://blog.csdn.net/miss_the_boat/article/details/121666837
