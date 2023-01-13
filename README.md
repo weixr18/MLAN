@@ -1,5 +1,6 @@
 # MLAN - Machine Learning Algorithm Note
 机器学习算法笔记 [pdf链接](https://github.com/weixr18/MLAN/blob/main/Machine_Learning_Algorithm_Note-V2.0.pdf)
+[@DylanWaken](https://github.com/DylanWaken)对这份笔记做了一些补充和扩展，也用代码实现了其中的一些算法，可以看他的仓库[DL_Memory_Palace](https://github.com/DylanWaken/DL_Memory_Palace)
 
 ## 总览
 
